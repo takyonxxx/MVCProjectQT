@@ -2,7 +2,7 @@
 
 QSqlTableModel, QSqlDatabase example
 
-Model View Controller (MVC) Pattern
+<b>Model View Controller (MVC) Pattern</b>
 
 
 Separation of Model from View components makes it possible to implement several user interfaces that reuse the common core business logic.
