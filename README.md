@@ -1,4 +1,7 @@
 # MVCProjectQT
+
+QSqlTableModel, QSqlDatabase example
+
 Model View Controller (MVC) Pattern
 
 
